@@ -1,0 +1,15 @@
+2026-10-25 15:27:55,075 | INFO | __main__ | === CLI run started ===
+2026-10-25 15:27:56,617 | INFO | faiss.loader | Loading faiss with AVX2 support.
+2026-10-25 15:27:56,617 | INFO | faiss.loader | Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2026-10-25 15:27:56,618 | INFO | faiss.loader | Loading faiss.
+2026-10-25 15:27:56,636 | INFO | faiss.loader | Successfully loaded faiss.
+2026-10-25 15:27:57,827 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:27:58,926 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:27:58,930 | INFO | __main__ | === CLI run finished ===
+2026-10-25 15:27:59,403 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:28:00,464 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:28:00,466 | INFO | __main__ | === CLI run finished ===
+2026-10-25 15:28:00,900 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:28:01,829 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-25 15:28:01,830 | INFO | __main__ | === CLI run finished ===
